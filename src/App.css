@@ -1,0 +1,6 @@
+.footer__aside-top, .footer__aside-bottom {
+    justify-content: space-between;
+    align-items: center;
+    gap: var(--spacing-8);
+    display: grid;
+  }
